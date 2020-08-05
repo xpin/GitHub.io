@@ -1,2 +1,2 @@
-# GitHub.io
+# Alexandra Pinto
 Personal webpage
