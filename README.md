@@ -61,17 +61,16 @@
              <div class="col-lg-3" style="display:inline-block;float:none;vertical-align:top;">
                 <span class="glyphicon glyphicon-education"></span>
 	        <p align="justify">
-                  I'm a PostDoc researcher at ETH Zürich. <br/>
-                  I was previously a PostDoc researcher in the Computer Science Department at University of Pisa.
-                  I received the Ph.D. in Computer Science from the University of Pisa and
-                  the M.Sc. in Computer Science and Networking from University of Pisa and Scuola Superiore Sant'Anna.</p>
+                  I'm an information theory physicist and entrepreneur.
+		  I am specialized in Neural Systems and Computation with Quantum Information background. <br/
+                  My academic coursework is from ETH Zurich, UZH Zurich, Stanford University and Los Andes University.
+                  I am also thankful with the Swiss Innovation Agency, Innosuisse, for shaping my entrepreneurial path with their amazing people and resources.</p>
              </div>
              <div class="col-lg-3" style="display:inline-block;float:none;vertical-align:top;">
                  <span class="glyphicon glyphicon-book"></span>
                  <p align="justify">
-                   My main reseach interests lie on the fields of Interconnection Networks, Green Computing, Dynamic Runtime Adaptations, 
-                   Parallel Programming and High Performance Computing.<br/> 
-                   You can find more about my research by checking the <a href="./publications.html">publications page</a></p>
+                   My main research interest is in Neuroscience and how its learning and memory mechanisms can be useful for enhanced artificial computation that allows for greener, smarter deployment.<br/> 
+                   A set of my interdisciplinary publications can be found at <a href="./publications.html">publications page</a></p>
              </div>
              <div class="col-lg-3" style="display:inline-block;float:none;vertical-align:top;">
                  <span class="glyphicon glyphicon-user"></span>
