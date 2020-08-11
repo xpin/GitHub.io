@@ -47,10 +47,10 @@
       <div class="container">
         <div class="row">
            <div class="col-lg-8 col-lg-offset-2 centered">
-             <img class="img-rounded" src="assets/img/me.png" alt="Daniele De Sensi" height="271" width="240">
-             <h1>Daniele De Sensi</h1>
-             <h2>PostDoc Researcher</h2>
-             <h2>ETH Zürich</h2>
+             <img class="img-rounded" src="assets/img/me.png" alt="Alexandra Pinto" height="271" width="240">
+             <h1>Alexandra Pinto</h1>
+             <h2>Neural and Computational Researcher</h2>
+             <h2>Zürich</h2>
            </div><!-- /col-lg-8 -->
          </div><!-- /row -->
        </div> <!-- /container -->
@@ -64,7 +64,7 @@
                   I'm an information theory physicist and entrepreneur.
 		  I am specialized in Neural Systems and Computation with Quantum Information background. <br/
                   My academic coursework is from ETH Zurich, UZH Zurich, Stanford University and Los Andes University.
-                  I am also thankful with the Swiss Innovation Agency, Innosuisse, for shaping my entrepreneurial path with their amazing people and resources.</p>
+                  I am also thankful with the Swiss Innovation Agency, Innosuisse, for shaping my entrepreneurial path with their amazing people and resources. I was also part of Creative Destruction Lab in Toronto where I got to know the Quantum Startup Stream.</p>
              </div>
              <div class="col-lg-3" style="display:inline-block;float:none;vertical-align:top;">
                  <span class="glyphicon glyphicon-book"></span>
