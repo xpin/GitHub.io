@@ -48,7 +48,7 @@ p {
 
 /* Links */
 a {
-    color: #3FB0AC;
+    color: #B03F43;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -95,7 +95,7 @@ a:after {
 }
 
 .navbar-inverse {
-        background-color: #3FB0AC;
+        background-color: #B03F43;
 	border-color: #173E43;
 }
 
@@ -122,7 +122,7 @@ a:after {
 }
 
 .progress-bar-theme {
-         background-color: #3FB0AC;
+         background-color: #B03F43;
 }
 
 
@@ -238,11 +238,11 @@ bt {
 
 .glyphicon {
 	font-size: 40px;
-	color: #3FB0AC;
+	color: #B03F43;
 }
 
 .btn-primary{
-   background-color: #3fb0ac;
+   background-color: #B03F43;
 }
 
 .btn-primary:focus{
@@ -260,7 +260,7 @@ bt {
 .open .dropdown-toggle.btn-primary {
   color: #ffffff;
   background-color: #173e43;
-  border-color: #3fb0ac;
+  border-color: #B03F43;
 }
 
 h1, h2, h3, h4, h5, h6 {
